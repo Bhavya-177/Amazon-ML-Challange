@@ -1,0 +1,4 @@
+# Standard POSIX / C++17 build environment
+cmake>=3.14
+make>=4.0
+gcc>=9.0
